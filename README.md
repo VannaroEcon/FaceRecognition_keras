@@ -1,5 +1,5 @@
 # Face Recognition with Keras 
-This repository contains the script to detect the face recognition with keras.
+This repository contains the script to detect the face with keras.
 Given the images, the program compares and detects the similarity of human faces based on
 the calculated scores.
 
